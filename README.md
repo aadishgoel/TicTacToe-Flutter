@@ -1,8 +1,7 @@
-# tic_tac_toe
+# TicTacToe using Flutter
 
-A new Flutter project.
+Tic Tac Toe Game For Android and ios Platform using Google Flutter 
 
-## Getting Started
+## Demo
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![](/demo/demo.gif)
